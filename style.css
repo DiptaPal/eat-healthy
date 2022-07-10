@@ -14,9 +14,12 @@
 }
 .food-order img{
     width: 100%;
+    position: relative;
+    left: -12%;
 }
 .order-info{
     margin-top: 250px;
+    z-index: 1;
 }
 .food-header{
     font-size: 70px;
